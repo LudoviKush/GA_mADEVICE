@@ -1,14 +1,13 @@
-#  andOTP -  Android OTP Authenticator
+#  DAB OTP -  Android OTP Authenticator
 
 [![Build Status](https://travis-ci.org/andOTP/andOTP.svg?branch=master)](https://travis-ci.org/andOTP/andOTP)
 [![Current release](https://img.shields.io/github/release/andOTP/andOTP/all.svg)](https://github.com/andOTP/andOTP/releases/download/v0.7.1.1/andOTP_v0.7.1.1.apk)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/andotp/localized.svg)](https://crowdin.com/project/andotp)
 [![Chat - Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/andOTP)
-[![Chat - Matrix](https://img.shields.io/badge/chat-Matrix-blue.svg)](https://matrix.to/#/#andOTP:privacytools.io)
 
 ![andOTP](./assets/logo.png)
 
-andOTP is a two-factor authentication App for Android 4.4+.
+DAB OTP is a two-factor authentication App for Android 4.4+.
 
 It implements Time-based One-time Passwords (TOTP) and HMAC-Based One-Time Passwords (HOTP).
 Simply scan the QR code and login with the generated 6-digit code.
@@ -18,8 +17,8 @@ which has sadly been inactive since 2015. By now almost every aspect of the app 
 detached upon [user request](https://github.com/andOTP/andOTP/issues/145). But all credit for the original version and for starting this project still goes to Bruno!
 
 ## Help wanted:
-I currently don't have that much time to spend developing andOTP, so any contributions are always welcome.
-Don't worry, I will still continue to develop andOTP it will just slow down from the incredible speed I had going in the beginning.
+I currently don't have that much time to spend developing DAB OTP, so any contributions are always welcome.
+Don't worry, I will still continue to develop DAB OTP it will just slow down from the incredible speed I had going in the beginning.
 
 ## Features:
 
