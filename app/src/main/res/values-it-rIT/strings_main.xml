@@ -77,11 +77,11 @@
     <string name="dialog_label_confirm_password">Conferma la password</string>
     <string name="dialog_msg_auth">Si prega di inserire le credenziali del dispositivo per avviare andOTP.</string>
     <string name="dialog_msg_confirm_delete">Sei sicuro di volere rimuovere l\'account \"%1$s\"?</string>
-    <string name="dialog_msg_used_tokens">andOTP monitorerà quando utilizzi i tuoi token (usando la funzione
+    <string name="dialog_msg_used_tokens">DAB OTP monitorerà quando utilizzi i tuoi token (usando la funzione
         \"Tocca per mostrare\" o copiando negli appunti) in modo da ordinarli per \"Più utilizzate\" o
         \"Ultimo utilizzo\".\n\nQuesto messaggio non verrà più mostrato.</string>
     <string name="dialog_msg_keystore_error">Impossibile caricare la chiave di crittografia dal KeyStore.
-        <b>Qualsiasi voce aggiunta verrà persa</b>\n\nPer continuare ad utilizzare andOTP, vai nelle
+        <b>Qualsiasi voce aggiunta verrà persa</b>\n\nPer continuare ad utilizzare DAB OTP, vai nelle
         <b>Impostazioni</b> e imposta la <b>Crittografia del database</b> su <b>Password / PIN</b>.</string>
     <string name="dialog_msg_android21_deprecation">Questa sarà l\'ultima versione di andOTP che
         supporta versioni di Android sotto alla 5.1 (Lollipop). L\'aumento dell\'impegno richiesto per

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_activity_title">Info</string>
-    <string name="about_description">Autenticazione a due fattori opensource per Android</string>
+    <string name="about_description">Autenticazione a due fattori per Android</string>
     <string name="about_tab_about">Info</string>
     <string name="about_tab_libraries">Librerie</string>
     <!-- Misc -->
@@ -34,7 +34,6 @@
         qualsiasi scopo tranne che per rappresentare quel particolare marchio o servizio.</b></string>
     <!-- Support -->
     <string name="about_title_support">Sostieni lo sviluppo</string>
-    <string name="about_desc_support">Scopri come puoi supportare lo sviluppo di andOTP</string>
     <string name="about_title_special_features">Caratteristiche speciali</string>
     <string name="about_dialog_special_features">Sei sicuro che desideri abilitare le funzionalità speciali?
         La maggior parte di esse sono algoritmi OTP non standard che sono stati implementati su

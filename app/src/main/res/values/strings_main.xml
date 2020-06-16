@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">andOTP</string>
+    <string name="app_name" translatable="false">DAB OTP</string>
 
     <!-- Buttons -->
     <string name="button_cancel">Cancel</string>
@@ -21,7 +21,7 @@
     <string name="hint_secret">Secret</string>
 
     <!-- Labels -->
-    <string name="label_clipboard_content" translatable="false">OTP Token</string>
+    <string name="label_clipboard_content" translatable="false">DAB OTP Token</string>
     <string name="label_hidden">Hidden</string>
     <string name="label_type">Type</string>
     <string name="label_secret">Secret</string>

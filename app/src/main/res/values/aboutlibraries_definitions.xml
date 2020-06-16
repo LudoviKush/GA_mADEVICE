@@ -19,7 +19,7 @@
 
     <!-- Expandable Layout -->
     <string name="define_ExpandableLayout"></string>
-    <string name="library_ExpandableLayout_author">Akira Aratani</string>
+    <string name="library_ExpandableLayout_author"> Akir</string>
 
     <string name="library_ExpandableLayout_libraryName">Expandable Layout</string>
     <string name="library_ExpandableLayout_libraryDescription">This library provides an expandable layout with various animations.</string>

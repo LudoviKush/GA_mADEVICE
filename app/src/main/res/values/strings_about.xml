@@ -47,7 +47,7 @@
 
     <!-- Support -->
     <string name="about_title_support">Support development</string>
-    <string name="about_desc_support">Find out how you can support the development of andOTP</string>
+    <string name="about_desc_support">Find out how you can support the development of DAB OTP</string>
 
     <string name="about_title_special_features">Special features</string>
     <string name="about_dialog_special_features">Are you sure you want to enable the special
