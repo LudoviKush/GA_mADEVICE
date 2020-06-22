@@ -66,7 +66,7 @@ public class CredentialsPreference extends DialogPreference
 
     private List<String> entries;
     private static final List<AuthMethod> entryValues = Arrays.asList(
-            AuthMethod.NONE,
+            //AuthMethod.NONE,
             AuthMethod.PASSWORD,
             AuthMethod.PIN,
             AuthMethod.DEVICE
