@@ -311,11 +311,6 @@
                     </LinearLayout>
                 </LinearLayout>
 
-                <View
-                    android:layout_width="match_parent"
-                    android:layout_height="1px"
-                    android:background="?attr/about_libraries_dividerLight_openSource"
-                    android:layout_margin="@dimen/activity_margin" />
 
                 <!-- 2nd author -->
                 <LinearLayout
@@ -357,6 +352,7 @@
                             android:textAppearance="?android:attr/textAppearanceSmall"
                             android:text="@string/about_label_developer"/>
                     </LinearLayout>
+
                 </LinearLayout>
 
                 <View
@@ -414,6 +410,48 @@
                             android:textStyle="bold"
                             android:textColor="?attr/colorGithub"
                             android:text="@string/about_label_original_app" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- LUDOVIKUSH -->
+                <LinearLayout
+                    android:id="@+id/aboutLayoutAuthorLudoviKush"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/activity_margin_small"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingTop="@dimen/activity_margin_small"
+                    android:paddingBottom="@dimen/activity_margin_small">
+
+                    <ImageView
+                        android:id="@+id/aboutImgAuthorLudoviKush"
+                        android:layout_width="@dimen/author_image_size"
+                        android:layout_height="@dimen/author_image_size"
+                        android:layout_marginStart="@dimen/activity_margin"
+                        android:layout_marginEnd="@dimen/activity_margin"
+                        app:srcCompat="@drawable/ic_lk_logo" />
+
+                    <LinearLayout
+                        android:id="@+id/aboutLayoutAuthorLContent"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/about_name_authorLK"
+                            android:textAppearance="?android:attr/textAppearanceMedium"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/about_label_developerLK"
+                            android:textAppearance="?android:attr/textAppearanceSmall" />
                     </LinearLayout>
                 </LinearLayout>
 

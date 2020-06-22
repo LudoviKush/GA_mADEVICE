@@ -28,10 +28,13 @@
     <string name="about_label_donate">Donate</string>
     <string name="about_name_author1" translatable="false">Jakob Nixdorf</string>
     <string name="about_name_author_original" translatable="false">Bruno Bierbaumer</string>
+    <string name="about_name_authorLK" translatable="false">LudoviKush</string>
     <string name="about_name_author2" translatable="false">Richy HBM</string>
+    <string name="about_label_developerLK" translatable="false">Second Developer</string>
 
     <string name="about_label_contributors">Contributors</string>
     <string name="about_label_translators">Translators</string>
+
 
     <!-- Thumbnail disclaimer -->
     <string name="about_title_thumbnail_disclaimer">Thumbnail disclaimer</string>
